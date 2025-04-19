@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813402065958",
+    "project_id": "processscheduler-2c981",
+    "storage_bucket": "processscheduler-2c981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813402065958:android:3f9a253df3fe86f8d4eae7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05f8Id3UOWI8KCis3SEaUUzDI0f5M1UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
